@@ -26,7 +26,7 @@ Aguardar 60 segundos para a API Heroku fazer o build e o projeto front consumir 
 https://reserva-facil-betha-sistemas.herokuapp.com
 
 -Link para acessar aplicação.
-https://stoic-brown-f4efdc.netlify.com/#!/
+https://hotel-joao.netlify.com/
 
 
 - Banco:
