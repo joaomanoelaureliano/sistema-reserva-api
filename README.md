@@ -22,8 +22,11 @@ o comando "npm start".
 
 Aguardar 60 segundos para a API Heroku fazer o build e o projeto front consumir a API.
 
-Link para consumir a API:
+-Link para consumir a API:
 https://reserva-facil-betha-sistemas.herokuapp.com
+
+-Link para acessar aplicação.
+https://stoic-brown-f4efdc.netlify.com/#!/
 
 
 - Banco:
